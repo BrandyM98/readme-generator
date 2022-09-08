@@ -2,6 +2,13 @@
 function renderLicenseBadge(license) {
   return `![license](https://img.shields.io/badge/license-${license}-blue.png)`
  }
+ 
+
+//  //function that returns the license link
+//  function renderLicenseLink(license) {}
+ 
+// // function that returns the license section of README
+//  function renderLicenseSection(license) {}
 
 //function to generate markdown for README
 function generateMarkdown(data) {
