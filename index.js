@@ -28,11 +28,11 @@ let questions = [
     {
         type: 'list',
         message: 'Chose the appropriate license for the project: ',
-        name: 'License',
+        name: 'license',
         choices: [
-           'Apache License 2.0',
-           'GNU General Public License v3.0',
-           'MIT License'
+           'ApacheLicense2.0',
+           'GNUGeneralPublicLicensev3.0',
+           'MITLicense'
         ]
     },
     {

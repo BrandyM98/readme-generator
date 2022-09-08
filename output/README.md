@@ -1,7 +1,7 @@
-# aD
-![License](https://img.shields.io/badge/license-Apache License 2.0-blue.png)
+# adsf
+![license](https://img.shields.io/badge/license-GNUGeneralPublicLicensev3.0-blue.png)
 
-asd
+asdf
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,22 +12,22 @@ asd
 
 ## Installation
 
-sad
+asdf
 
 ## Usage
-ASD
+asdf
 
 ## License
-Apache License 2.0
+GNUGeneralPublicLicensev3.0
 
 ## Contributing
-ASD
+asdf
 
 ## Tests
-ASD
+afsd
 
 ## Questions
 For any questions, please contact me via the information provided below:
-ASDD
-ASD
+asfd
+asdf
 
