@@ -55,10 +55,7 @@ let questions = [
         message: 'What is your emial?',
         name: 'Email'
     }
-]; //add badges
-
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {} //delete
+]; 
 
 // TODO: Create a function to initialize app
 function init() {
