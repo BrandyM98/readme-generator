@@ -1,7 +1,7 @@
-# asdf
-![license](https://img.shields.io/badge/license-ApacheLicense2.0-blue.png)
+# README.md Generator
+![license](https://img.shields.io/badge/license-MITLicense-blue.png)
 
-adsf
+This application was created to generate a high-quality, professional README depending on a series of questions a user answers in their command line using Node.js
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,22 +12,22 @@ adsf
 
 ## Installation
 
-adsf
+The user should clone the repo from github and download node. It requries a file system and inquiring modle
 
 ## Usage
-asdf
+use the inquirier form your command line to answer
 
 ## License
-ApacheLicense2.0
+MITLicense
 
 ## Contributing
-asdf
+me
 
 ## Tests
-asdf
+npm test
 
 ## Questions
 For any questions, please contact me via the information provided below:
-sd
-adsf
+china@gmail.com
+https//github.com:
 

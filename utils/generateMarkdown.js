@@ -3,15 +3,6 @@ function renderLicenseBadge(license) {
   return `![license](https://img.shields.io/badge/license-${license}-blue.png)`
  }
  
- //[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
- //(https://img.shields.io/badge/License-MIT-yellow.svg) and other function to create this part (https://opensource.org/licenses/MIT)
-
-//  //function that returns the license link
-//  function renderLicenseLink(license) {}
- 
-// // function that returns the license section of README
-//  function renderLicenseSection(license) {}
-
 //function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.Project}
