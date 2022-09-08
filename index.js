@@ -1,7 +1,6 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 // TODO: Create an array of questions for user input
-//const questions = [];
 
 inquirer.prompt([
     {
@@ -35,6 +34,7 @@ inquirer.prompt([
         name: 'license',
         choices: [
             //add license choices here
+            //utilize checkbox and list
         ]
     },
     {
@@ -42,7 +42,7 @@ inquirer.prompt([
         message: 'Are there included test?',
         name: 'tests'
     }
-])
+]); //add badges
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
