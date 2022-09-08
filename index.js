@@ -4,6 +4,8 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const fs = require('fs');
 // TODO: Create an array of questions for user input
 //title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+
+// added questions from professional README template
 let questions = [
     {
         type: 'input',
@@ -12,17 +14,17 @@ let questions = [
     },
     {
         type: 'input',
-        message: 'Provide a short discription of your project: ',
+        message: 'Provide a short description explaining the what, why, and how of your project.',
         name: 'Description'
     },
     {
         type: 'input',
-        message: 'Describe the installation process: ',
+        message: 'What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.',
         name: 'Installation'
     },
     {
         type: 'input',
-        message: 'what instructions do you have for the user to accurately use your project?',
+        message: 'Provide instructions and examples for use.',
         name: 'Usage'
     },
     {
@@ -30,9 +32,9 @@ let questions = [
         message: 'Chose the appropriate license for the project: ',
         name: 'License',
         choices: [
-           'hfd',
-           'h,jg',
-           'kghjf'
+           'Apache License 2.0',
+           'GNU General Public License v3.0',
+           'MIT License'
         ]
     },
     {
