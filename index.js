@@ -11,18 +11,36 @@ inquirer.prompt([
     },
     {
         type: 'input',
-        message: 'provide a short discription explaining your project',
+        message: 'provide a short discription of your project: ',
         name: 'description'
     },
     {
         type: 'input',
-        message: 'what are the steps required to install the project?',
+        message: 'Describe the installation process: ',
         name: 'installation'
     },
     {
         type: 'input',
         message: 'what instructions do you have for the user to accurately use your project?',
         name: 'usage'
+    },
+    {
+        type: 'input',
+        message: 'Who all contributed to this project?',
+        name: 'credits'
+    },
+    {
+        type: 'list',
+        message: 'Chose the appropriate license for the project: ',
+        name: 'license',
+        choices: [
+            //add license choices here
+        ]
+    },
+    {
+        type: 'input',
+        message: 'Are there included test?',
+        name: 'tests'
     }
 ])
 
