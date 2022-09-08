@@ -1,7 +1,7 @@
 # README.md Generator
 ![license](https://img.shields.io/badge/license-MITLicense-blue.png)
 
-This application was created to generate a high-quality, professional README depending on a series of questions a user answers in their command line using Node.js
+This application was created to generate a high-quality, professional README based on a series of responses from a user in their command line using Node.js.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,22 +12,21 @@ This application was created to generate a high-quality, professional README dep
 
 ## Installation
 
-The user should clone the repo from github and download node. It requries a file system and inquiring modle
+The user should clone the repository from GitHub and download Node into their terminal. 
 
 ## Usage
-use the inquirier form your command line to answer
+Use inquirer from your command line to answer questions about your project.
 
 ## License
+This project is license under 
 MITLicense
 
 ## Contributing
-me
+--
 
 ## Tests
-npm test
+npm
 
 ## Questions
-For any questions, please contact me via the information provided below:
-china@gmail.com
-https//github.com:
+If you have any questions, please do not hesitate to contact me via email: china@gmail.com. You can view additional projects of mine via:https://github.com.
 

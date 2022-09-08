@@ -25,6 +25,7 @@ ${data.Installation}
 ${data.Usage}
 
 ## License
+This project is license under 
 ${data.license}
 
 ## Contributing
@@ -34,9 +35,7 @@ ${data.Contributing}
 ${data.Tests}
 
 ## Questions
-For any questions, please contact me via the information provided here: 
-${data.Email} and/or
-${data.GitHub}
+If you have any questions, please do not hesitate to contact me via email: ${data.Email}. You can view additional projects of mine via:${data.GitHub}.
 
 `;
 }
