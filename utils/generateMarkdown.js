@@ -34,8 +34,8 @@ ${data.Contributing}
 ${data.Tests}
 
 ## Questions
-For any questions, please contact me via the information provided below:
-${data.Email}
+For any questions, please contact me via the information provided here: 
+${data.Email} and/or
 ${data.GitHub}
 
 `;
