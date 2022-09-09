@@ -18,7 +18,6 @@ ${data.Description}
 - [Questions](#questions)
 
 ## Installation
-
 ${data.Installation}
 
 ## Usage
@@ -35,7 +34,7 @@ ${data.Contributing}
 ${data.Tests}
 
 ## Questions
-If you have any questions, please do not hesitate to contact me via email: ${data.Email}. You can view additional projects of mine via:${data.GitHub}.
+If you have any questions, please do not hesitate to contact me via: ${data.Email} ${data.GitHub}.
 
 `;
 }
